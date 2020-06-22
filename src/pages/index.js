@@ -51,15 +51,16 @@ const IndexPage = () => (
             <h3>Technical Skillset</h3>
             <p>
               3+ years in Software/Web development experience
-              
+              <br></br>
+              6+ years in IT sector
             </p>
             <ul className="feature-icons">
-              <li className="fa-code">Write all the code</li>
-              <li className="fa-cubes">Stack small boxes</li>
-              <li className="fa-book">Read books and stuff</li>
-              <li className="fa-coffee">Drink much coffee</li>
-              <li className="fa-bolt">Lightning bolt</li>
-              <li className="fa-users">Shadow clone technique</li>
+              <li className="fa-code">Ruby/Ruby on Rails </li>
+              <li className="fa-cubes">Heroku/AWS</li>
+              <li className="fa-book">Automation (Ruby, Bash)</li>
+              <li className="fa-coffee">TODO</li>
+              <li className="fa-bolt">JavaScript(Node.js, React, Express)</li>
+              <li className="fa-users">TODO</li>
             </ul>
           </div>
         </section>
