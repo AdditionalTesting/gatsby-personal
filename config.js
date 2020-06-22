@@ -1,36 +1,36 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Readonly', // <title>
-  manifestName: 'Readonly',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'Albert B - Developer', // <title>
+  manifestName: 'Portfolio / Personal',
+  manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-readonly/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Anubhav Srivastava',
-  heading: "I got reprogrammed by a rogue AI and now I'm totally cray",
+  authorName: 'Albert Burchi',
+  heading: "Hoping to get reprogrammed by a rogue AI in the near future",
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/AdditionalTesting',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/AdditionalTest1',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/albert-burchi/',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:albert.burc@gmail.com',
     },
   ],
 };

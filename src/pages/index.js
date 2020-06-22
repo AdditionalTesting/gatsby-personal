@@ -13,8 +13,8 @@ import pic3 from '../assets/images/pic03.jpg';
 
 const sections = [
   { id: 'one', name: 'About' },
-  { id: 'two', name: 'Things I Can Do' },
-  { id: 'three', name: 'A Few Accomplishments' },
+  { id: 'two', name: 'Technical Skillset' },
+  { id: 'three', name: 'Projects' },
   { id: 'four', name: 'Contact' },
   { id: 'five', name: 'Elements' },
 ];
@@ -29,31 +29,29 @@ const IndexPage = () => (
           </div>
           <div className="container">
             <header className="major">
-              <h2>Read Only</h2>
+              <h2>Full Stack Developer</h2>
               <p>
-                Just an incredibly simple responsive site
-                <br />
-                template freebie by <a href="http://html5up.net">HTML5 UP</a>.
+                Personal/Portfolio website built with <a href="https://gatsbyjs.org">GatsbyJS</a>.
               </p>
             </header>
             <p>
-              Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus
-              col. Commodo id in arcu ante lorem ipsum sed accumsan erat
-              praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo.
-              Vis aliquet tortor ultricies non ante erat nunc integer eu ante
-              ornare amet commetus vestibulum blandit integer in curae ac
-              faucibus integer non. Adipiscing cubilia elementum.
+            Full Stack Developer with a demonstrated skill set in the information technology
+            sector. Currently working with Ruby, Rails and Javascript all while
+            learning to work in Node.js and React. My lifelong passion for tech has allowed
+            me to work with outstanding teams and eventually find my way into
+            an amazing network of Full Stackers.
+            Looking to expand my knowledge and learn new technologies
+            while contributing to existing and future projects.
             </p>
           </div>
         </section>
 
         <section id="two">
           <div className="container">
-            <h3>Things I Can Do</h3>
+            <h3>Technical Skillset</h3>
             <p>
-              Integer eu ante ornare amet commetus vestibulum blandit integer in
-              curae ac faucibus integer non. Adipiscing cubilia elementum
-              integer lorem ipsum dolor sit amet.
+              3+ years in Software/Web development experience
+              
             </p>
             <ul className="feature-icons">
               <li className="fa-code">Write all the code</li>
@@ -68,7 +66,7 @@ const IndexPage = () => (
 
         <section id="three">
           <div className="container">
-            <h3>A Few Accomplishments</h3>
+            <h3>Projects</h3>
             <p>
               Integer eu ante ornare amet commetus vestibulum blandit integer in
               curae ac faucibus integer non. Adipiscing cubilia elementum
