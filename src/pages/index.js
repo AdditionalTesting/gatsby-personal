@@ -57,10 +57,10 @@ const IndexPage = () => (
             <ul className="feature-icons">
               <li className="fa-code">Ruby/Ruby on Rails </li>
               <li className="fa-cubes">Heroku/AWS</li>
-              <li className="fa-book">Automation (Ruby, Bash)</li>
-              <li className="fa-coffee">TODO</li>
+              <li className="fa-book">Automation(Ruby, Bash)</li>
+              <li className="fa-coffee">HTML5/CSS3/SCSS</li>
               <li className="fa-bolt">JavaScript(Node.js, React, Express)</li>
-              <li className="fa-users">TODO</li>
+              <li className="fa-users">Systems Administration(Linux, Windows)</li>
             </ul>
           </div>
         </section>
