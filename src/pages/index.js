@@ -69,9 +69,7 @@ const IndexPage = () => (
           <div className="container">
             <h3>Projects</h3>
             <p>
-              Integer eu ante ornare amet commetus vestibulum blandit integer in
-              curae ac faucibus integer non. Adipiscing cubilia elementum
-              integer. Integer eu ante ornare amet commetus.
+              Some of the projects I've built, either out of personal interest or as contract work from clients.
             </p>
             <div className="features">
               <article>
@@ -79,10 +77,11 @@ const IndexPage = () => (
                   <img src={pic1} alt="" />
                 </a>
                 <div className="inner">
-                  <h4>Possibly broke spacetime</h4>
+                  <h4>Meet In The Middle</h4>
                   <p>
-                    Integer eu ante ornare amet commetus vestibulum blandit
-                    integer in curae ac faucibus integer adipiscing ornare amet.
+                  This app allows anyone to quickly decide on a meeting spot
+                  by calculating the central location point between you and your friends. 
+                  From the middle point, it will give you suggestions based on what type of activity you want to do.
                   </p>
                 </div>
               </article>
@@ -91,10 +90,11 @@ const IndexPage = () => (
                   <img src={pic2} alt="" />
                 </a>
                 <div className="inner">
-                  <h4>Terraformed a small moon</h4>
+                  <h4>shristig.com</h4>
                   <p>
-                    Integer eu ante ornare amet commetus vestibulum blandit
-                    integer in curae ac faucibus integer adipiscing ornare amet.
+                    Personal website built for a client.
+                    I worked closesly with the client, doing development work,
+                    while she provided the content and designs for the website.
                   </p>
                 </div>
               </article>
@@ -103,10 +103,23 @@ const IndexPage = () => (
                   <img src={pic3} alt="" />
                 </a>
                 <div className="inner">
-                  <h4>Snapped dark matter in the wild</h4>
+                  <h4>AgentBas.com</h4>
                   <p>
-                    Integer eu ante ornare amet commetus vestibulum blandit
-                    integer in curae ac faucibus integer adipiscing ornare amet.
+                    Business website developed for a client in the real estate sector.
+                    Mostly front end focused, but also provided the client with an easy an effiecient way 
+                    to deploy their full technology stack(GSuite, Domain, Hosting etc.)
+                  </p>
+                </div>
+              </article>
+              <article>
+                <a href="/#" className="image">
+                  <img src={pic3} alt="" />
+                </a>
+                <div className="inner">
+                  <h4>Rails Blogging App</h4>
+                  <p>
+                    Basic blogging application built in Ruby on Rails.
+                    Mostly back end focused.
                   </p>
                 </div>
               </article>
