@@ -7,9 +7,12 @@ import SideBar from '../components/SideBar';
 
 import banner from '../assets/images/banner.jpg';
 
-import pic1 from '../assets/images/pic01.jpg';
-import pic2 from '../assets/images/pic02.jpg';
-import pic3 from '../assets/images/pic03.jpg';
+import pic1 from '../assets/images/MeetInTheMiddle.png';
+import pic2 from '../assets/images/ShristiGPortfolio.png';
+import pic3 from '../assets/images/AgentBasLogo.png';
+import pic4 from '../assets/images/RailsBlogApp.png';
+
+
 
 const sections = [
   { id: 'one', name: 'About' },
@@ -100,7 +103,7 @@ const IndexPage = () => (
               </article>
               <article>
                 <a href="/#" className="image">
-                  <img src={pic3} alt="" />
+                  <img src={pic3} alt="" style={{backgroundColor: "#4acaa8"}}/>
                 </a>
                 <div className="inner">
                   <h4>AgentBas.com</h4>
@@ -113,7 +116,7 @@ const IndexPage = () => (
               </article>
               <article>
                 <a href="/#" className="image">
-                  <img src={pic3} alt="" />
+                  <img src={pic4} alt="" />
                 </a>
                 <div className="inner">
                   <h4>Rails Blogging App</h4>
