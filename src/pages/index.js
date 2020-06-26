@@ -82,9 +82,7 @@ const IndexPage = () => (
                   <img src={pic1} alt="" />
                 </a>
                 <div className="inner">
-                  <a href="https://fathomless-fortress-65436.herokuapp.com/">
-                    <h4>Meet In The Middle</h4>
-                  </a>
+                  <h4><a href="https://fathomless-fortress-65436.herokuapp.com/">Meet In The Middle</a></h4>
                   <p>
                   This app allows anyone to quickly decide on a meeting spot
                   by calculating the central location point between you and your friends. 
@@ -97,9 +95,7 @@ const IndexPage = () => (
                   <img src={pic2} alt="" />
                 </a>
                 <div className="inner">
-                  <a href="http://shristig.com/">
-                  <h4>shristig.com</h4>
-                  </a>
+                <h4><a href="http://www.shristig.com/">shristig.com</a></h4>
                   <p>
                     Personal website built for a client.
                     I worked closesly with the client, doing development work,
@@ -112,9 +108,9 @@ const IndexPage = () => (
                   <img src={pic3} alt="" style={{backgroundColor: "#4acaa8"}}/>
                 </a>
                 <div className="inner">
-                <a href="http://www.agentbas.com/">
-                  <h4>AgentBas.com</h4>
-                </a>
+                  <h4>
+                    <a href="http://www.agentbas.com/">AgentBas.com</a>
+                  </h4>
                   <p>
                     Business website developed for a client in the real estate sector.
                     Mostly front end focused, but also provided the client with an easy an effiecient way 
