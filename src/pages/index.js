@@ -56,6 +56,8 @@ const IndexPage = () => (
               3+ years in Software/Web development experience
               <br></br>
               6+ years in IT sector
+              <br></br>
+              My skills include, but are not limited to:
             </p>
             <ul className="feature-icons">
               <li className="fa-code">Ruby/Ruby on Rails </li>
@@ -72,7 +74,7 @@ const IndexPage = () => (
           <div className="container">
             <h3>Projects</h3>
             <p>
-              Some of the projects I've built, either out of personal interest or as contract work from clients.
+              Some of the projects I've built, either out of personal interest or as contract work for clients.
             </p>
             <div className="features">
               <article>
@@ -135,6 +137,7 @@ const IndexPage = () => (
                 </div>
               </article>
             </div>
+            <h4>Other public projects can be found on <a href="https://github.com/AdditionalTesting">my Github</a></h4>
           </div>
         </section>
 
