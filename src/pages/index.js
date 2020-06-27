@@ -141,14 +141,17 @@ const IndexPage = () => (
           <div className="container">
             <h3>Contact Me</h3>
             <p>
-              Integer eu ante ornare amet commetus vestibulum blandit integer in
-              curae ac faucibus integer non. Adipiscing cubilia elementum
-              integer. Integer eu ante ornare amet commetus.
+              Get in touch with me to find out more about how I can help you bring your idea to life.
             </p>
-            <form method="post" action="#">
+            <form action="https://getform.io/f/ecd63ff1-cba4-4a29-8e26-27c53c36b13a" method="POST">
               <div className="row gtr-uniform">
                 <div className="col-6 col-12-xsmall">
-                  <input type="text" name="name" id="name" placeholder="Name" />
+                  <input 
+                    type="text" 
+                    name="name" 
+                    id="name" 
+                    placeholder="Name" 
+                    required/>
                 </div>
                 <div className="col-6 col-12-xsmall">
                   <input
@@ -156,6 +159,7 @@ const IndexPage = () => (
                     name="email"
                     id="email"
                     placeholder="Email"
+                    required
                   />
                 </div>
                 <div className="col-12">
@@ -164,6 +168,7 @@ const IndexPage = () => (
                     name="subject"
                     id="subject"
                     placeholder="Subject"
+                    required
                   />
                 </div>
                 <div className="col-12">
@@ -172,6 +177,7 @@ const IndexPage = () => (
                     id="message"
                     placeholder="Message"
                     rows="6"
+                    required
                   />
                 </div>
                 <div className="col-12">
