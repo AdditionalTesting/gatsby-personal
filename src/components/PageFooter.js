@@ -4,13 +4,13 @@ export default function PageFooter() {
   return (
     <div className="container">
       <ul className="copyright">
-        <li>&copy; Untitled. All rights reserved.</li>
+        <li>&copy; 2020 albertb.dev. All rights reserved</li>
         <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
+          Built with <a href="https://www.gatsbyjs.org/">Gatsby</a>
         </li>
-        <li>
-          Demo Images: <a href="http://unsplash.com/">Unsplash</a>
-        </li>
+        {/* <li>
+          2020
+        </li> */}
       </ul>
     </div>
   );
