@@ -1,14 +1,9 @@
 {
-  "name": "gatsby-starter-readonly",
+  "name": "albertb.dev",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Readonly by HTML5 UP",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-readonly.git"
-  },
+  "description": "Gatsby.js starter theme based on template by HTML5 UP",
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Albert B"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -42,9 +37,5 @@
     "gatsby-starter",
     "gatsby-starter-readonly"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-readonly/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-readonly#readme"
+  "license": "MIT"
 }
