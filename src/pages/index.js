@@ -62,8 +62,8 @@ const IndexPage = () => (
               <li className="fa-code">Ruby/Ruby on Rails </li>
               <li className="fa-cubes">Heroku/AWS</li>
               <li className="fa-book">Automation(Ruby, Bash)</li>
-              <li className="fa-coffee">HTML5/CSS3/SCSS</li>
-              <li className="fa-bolt">JavaScript(Node.js, React, Express)</li>
+              <li className="fa-html5">HTML5/CSS3/SCSS</li>
+              <li className="fa-code-fork">JavaScript(Node.js, React, Express)</li>
               <li className="fa-users">Systems Administration(Linux, Windows)</li>
             </ul>
           </div>
